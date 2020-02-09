@@ -2,9 +2,10 @@
 A python module for creating a list with autocomplete support
 
 ## How to use?
-
+```
 import autocomplete
 a = autocomplete()
+```
 
 ## Methods:
 
